@@ -1,26 +1,52 @@
-<h1 align="center">Hi 👋, I'm Mardonova Nigora 
-<h3 align="center">AI & Python Developer | Web & Cybersecurity</h3>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#7aa2f7">Mardonova Nigora</span>
+</h1>
+
+<h3 align="center">
+  COO (Chief Operating Officer) • IT Specialist • Tech Leader
+</h3>
 
 <p align="center">
-  <b>Building real-world, scalable and clean software solutions.</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=COO+at+Zenith+Group+Company;2%2B+Years+in+IT+Industry;AI+%7C+Web+%7C+Cybersecurity;Building+Scalable+Digital+Systems" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=7aa2f7&style=flat" />
+  <img src="https://img.shields.io/badge/Role-COO-blueviolet?style=flat" />
+  <img src="https://img.shields.io/badge/Company-Zenith%20Group-black?style=flat" />
 </p>
 
 ---
 
-## 🌍 About Me
-- 🤖 Passionate about **Artificial Intelligence & Automation**
-- 🌐 Building modern **Web Applications**
-- 🔐 Interested in **Cybersecurity & Ethical Hacking**
-- 🐧 Linux power user (Kali Linux)
-- 🎯 Focused on **real-world problem solving**
+## 🧠 About Me
+
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 👩‍💼 **COO at Zenith Group Company**
+- 🎓 Former student of **IT School No.21 (School 21)**
+- 💼 **2+ years of professional experience in IT**
+- 🤖 AI & Automation enthusiast
+- 🌐 Web technologies & system architecture
+- 🔐 Cybersecurity & secure systems
+- 🐧 Linux (Kali Linux) power user
+- 🎯 Business-driven technology mindset
 
 ---
 
-## 📊 GitHub Statistics
+## 🏢 Professional Role
+
+### 🏢 Zenith Group Company  
+**COO — Chief Operating Officer**
+
+- 🚀 Managing company-wide IT operations  
+- 🧩 Aligning business strategy with technology  
+- ⚙️ Optimizing workflows & automation  
+- 🔒 Implementing secure and scalable systems  
+- 📈 Driving digital growth & innovation  
+
+---
+
+## 📊 GitHub Analytics (Live)
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -51,6 +77,56 @@
   <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,cloudflare,gcp,heroku" />
 </p>
 
+---
+
+## 🚀 Highlighted Projects
+
+✨ **🤖 AI Chatbot (Python)**  
+> Intelligent chatbot designed with clean architecture & automation logic.
+
+✨ **🧠 AI Text Analyzer**  
+> NLP-based tool for intelligent text understanding & analysis.
+
+✨ **🌐 Portfolio Website**  
+> Executive-style portfolio with modern UI/UX.
+
+✨ **🔐 Security Testing Tools**  
+> Ethical cybersecurity utilities (SQLi, XSS, audits).
+
+---
+
+## 🎯 Current Focus
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&width=700&lines=AI-powered+Business+Solutions;Automation+%26+Process+Optimization;Secure+System+Architecture;Technology+Leadership" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://t.me/USERNAME">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/USERNAME">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
 ---
 
 ## 🚀 Featured Projects
