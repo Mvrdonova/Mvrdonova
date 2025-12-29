@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Mardonova Nigora 👋
 
-<!--
-**Mvrdonova/Mvrdonova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Python Developer | Web Technologies  
 
-Here are some ideas to get you started:
+I build practical, clean, and scalable projects using Python and modern web tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tech Stack
+- Python (AI, Automation)
+- HTML, CSS, JavaScript
+- Git, GitHub
+- Linux (Kali)
+- Basic Cybersecurity
+
+---
+
+## 🚀 Projects
+- AI Chatbot (Python)
+- AI Text Analyzer
+- Personal Portfolio Website
+- Security Testing Tools
+
+---
+
+## 🎯 Current Focus
+- AI-powered applications
+- Clean architecture
+- Real-world problem solving
+
+---
+
+## 📫 Contact
+Telegram: @your_username
