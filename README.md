@@ -131,11 +131,7 @@ Ethical cybersecurity assessment utilities.
 
 ---
 
-## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38bdf8&center=true&width=900&lines=AI-powered+Business+Solutions;Automation+%26+Process+Optimization;Secure+System+Architecture;Technology+Leadership+%26+Operations" />
-</p>
 
 ---
 
@@ -160,21 +156,7 @@ Ethical cybersecurity assessment utilities.
 
 ---
 
-## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nigora-mardonova-a18a14246">
-    <img src="https://img.shields.io/badge/LinkedIn-Nigora%20Mardonova-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mardonova000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mardonova000@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/mrdnvt">
-    <img src="https://img.shields.io/badge/Telegram-@mrdnvt-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <sub>© Mardonova Nigora — COO | Building systems that scale.</sub>
@@ -242,25 +224,7 @@ My focus lies at the intersection of **business strategy, operational excellence
 
 ---
 
-## 🧰 Technology & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,nextjs,react" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,nginx" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,cloudflare,gcp,heroku" />
-</p>
-
----
 
 ## 🚀 Strategic Projects
 
@@ -400,33 +364,9 @@ Ethical security utilities for system assessment.
 
 ---
 
-## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nigora-mardonova-a18a14246">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mardonova000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/mrdnvt">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
----
 
-## ☕ Support My Work
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/USERNAME">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
-</p>
----
 
 ## 🚀 Featured Projects
 
@@ -452,25 +392,3 @@ Ethical security utilities for system assessment.
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nigora-mardonova-a18a14246">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mardonova000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/mrdnvt">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
----
-
-## ☕ Support My Work
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/USERNAME">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee" />
-  </a>
-</p>
